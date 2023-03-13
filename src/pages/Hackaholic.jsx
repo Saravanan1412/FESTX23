@@ -45,8 +45,8 @@ const tabs = [
               Brainstorming continues till 4 pm followed by idea pitching.
             </li>
             <li>
-              After further changes were required in ideas participants can
-              start building their prototypes.
+            After that participants can start building their prototypes.
+
             </li>
           </ul>
         </div>
@@ -58,16 +58,11 @@ const tabs = [
               second pitching starts at 11 am.
             </li>
             <li>
-              Teams will be instructed to make a business model of their idea
-              before the final round of pitching.
+            At 1 pm the final round of pitching will be concluded with the winner of the event.
+
             </li>
             <li>
-              At 1 pm the final round of pitching will be concluded with the
-              winner of the event.
-            </li>
-            <li>
-              At 3 pm in the presence of the Director sir the event will be
-              concluded followed by the announcement of winners.
+            At 3 pm the event will be concluded followed by the announcement of winners.
             </li>
           </ul>
         </div>
