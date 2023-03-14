@@ -56,8 +56,8 @@ const tabs = [
     content: (
       <div className="p-4">
         <ul className="list-disc text-xl lg:text-2xl p-4">
-          <li>Avula Naga Sanjay - 89395 55757</li>
-          <li>Pooja - 80723 41630</li>
+          <li>Haribabu - 86680 70272</li>
+          <li>Sree Lakshmi - 70940 81674</li>
         </ul>
       </div>
     ),
