@@ -93,12 +93,7 @@ const tabs = [
             original work.
           </li>
           <li className="break-words">
-            Teams must stop hacking once the time is up. However, teams are
-            allowed to debug and make small fixes to their programs after time
-            is up.
-          </li>
-          <li className="break-words">
-            Projects that violate the Code of Conduct are not allowed.
+            Teams must stop hacking once the time is up.
           </li>
           <li className="break-words">
             Teams that make it to the final round will be given up to ten
@@ -146,7 +141,7 @@ const Hackaholic = () => {
 
           <div className="xl:col-span-2 flex flex-col justify-center ">
             <p className="text-justify px-10 2xl:pr-auto lg:text-2xl md:text-3xl sm:text-xl mt-10">
-              Hackaholic is a 24 hrs hackathon. Five real world problem
+              Hackaholic is a 12 hours hackathon. Five real world problem
               statements will be thrown for which the budding engineers are
               asked to come up with a prototype solution. Winners will be
               announced by the industries that threw the problem statements.
